@@ -5,9 +5,8 @@
 
 .App {
   text-align: center;
-  background-color: #fa2020;
-  /* fcf4cb */
-  min-height: 100vh;
+  background-color: #fcf4cb;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
