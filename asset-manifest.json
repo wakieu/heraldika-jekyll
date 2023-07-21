@@ -1,17 +1,15 @@
 {
   "files": {
-    "main.css": "/heraldika-jekyll/static/css/main.c0774587.css",
-    "main.js": "/heraldika-jekyll/static/js/main.9e762b37.js",
-    "static/js/787.f9b48a11.chunk.js": "/heraldika-jekyll/static/js/787.f9b48a11.chunk.js",
+    "main.css": "/heraldika-jekyll/static/css/main.36ce411f.css",
+    "main.js": "/heraldika-jekyll/static/js/main.72d11419.js",
     "static/media/heraldic_map_of_europe_by_jekyll_by_jekyllpng_dg2jdha-pre.jpg": "/heraldika-jekyll/static/media/heraldic_map_of_europe_by_jekyll_by_jekyllpng_dg2jdha-pre.914917d77f257db5386a.jpg",
     "static/media/eras-demi-itc.ttf": "/heraldika-jekyll/static/media/eras-demi-itc.8522883fd0e0970eec04.ttf",
     "index.html": "/heraldika-jekyll/index.html",
-    "main.c0774587.css.map": "/heraldika-jekyll/static/css/main.c0774587.css.map",
-    "main.9e762b37.js.map": "/heraldika-jekyll/static/js/main.9e762b37.js.map",
-    "787.f9b48a11.chunk.js.map": "/heraldika-jekyll/static/js/787.f9b48a11.chunk.js.map"
+    "main.36ce411f.css.map": "/heraldika-jekyll/static/css/main.36ce411f.css.map",
+    "main.72d11419.js.map": "/heraldika-jekyll/static/js/main.72d11419.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0774587.css",
-    "static/js/main.9e762b37.js"
+    "static/css/main.36ce411f.css",
+    "static/js/main.72d11419.js"
   ]
 }
